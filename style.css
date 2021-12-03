@@ -113,11 +113,7 @@ body {
     padding: 1rem;
 }
 
-.app-download {
-    height: 3.5rem;
-    width: 12rem;
-    background-size: cover;
-}
+
 
 .app-download:nth-child(1) {
     background-image: url('./img/apple-button.png');
